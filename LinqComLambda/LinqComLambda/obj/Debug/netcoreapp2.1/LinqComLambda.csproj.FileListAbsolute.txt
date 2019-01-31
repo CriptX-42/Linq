@@ -1,0 +1,11 @@
+C:\Git\CSharp\Linq\LinqComLambda\LinqComLambda\bin\Debug\netcoreapp2.1\LinqComLambda.deps.json
+C:\Git\CSharp\Linq\LinqComLambda\LinqComLambda\bin\Debug\netcoreapp2.1\LinqComLambda.runtimeconfig.json
+C:\Git\CSharp\Linq\LinqComLambda\LinqComLambda\bin\Debug\netcoreapp2.1\LinqComLambda.runtimeconfig.dev.json
+C:\Git\CSharp\Linq\LinqComLambda\LinqComLambda\bin\Debug\netcoreapp2.1\LinqComLambda.dll
+C:\Git\CSharp\Linq\LinqComLambda\LinqComLambda\bin\Debug\netcoreapp2.1\LinqComLambda.pdb
+C:\Git\CSharp\Linq\LinqComLambda\LinqComLambda\obj\Debug\netcoreapp2.1\LinqComLambda.csprojAssemblyReference.cache
+C:\Git\CSharp\Linq\LinqComLambda\LinqComLambda\obj\Debug\netcoreapp2.1\LinqComLambda.csproj.CoreCompileInputs.cache
+C:\Git\CSharp\Linq\LinqComLambda\LinqComLambda\obj\Debug\netcoreapp2.1\LinqComLambda.AssemblyInfoInputs.cache
+C:\Git\CSharp\Linq\LinqComLambda\LinqComLambda\obj\Debug\netcoreapp2.1\LinqComLambda.AssemblyInfo.cs
+C:\Git\CSharp\Linq\LinqComLambda\LinqComLambda\obj\Debug\netcoreapp2.1\LinqComLambda.dll
+C:\Git\CSharp\Linq\LinqComLambda\LinqComLambda\obj\Debug\netcoreapp2.1\LinqComLambda.pdb

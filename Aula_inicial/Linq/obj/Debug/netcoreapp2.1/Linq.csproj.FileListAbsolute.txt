@@ -1,0 +1,11 @@
+C:\Git\CSharp\Linq\Linq\bin\Debug\netcoreapp2.1\Linq.deps.json
+C:\Git\CSharp\Linq\Linq\bin\Debug\netcoreapp2.1\Linq.runtimeconfig.json
+C:\Git\CSharp\Linq\Linq\bin\Debug\netcoreapp2.1\Linq.runtimeconfig.dev.json
+C:\Git\CSharp\Linq\Linq\bin\Debug\netcoreapp2.1\Linq.dll
+C:\Git\CSharp\Linq\Linq\bin\Debug\netcoreapp2.1\Linq.pdb
+C:\Git\CSharp\Linq\Linq\obj\Debug\netcoreapp2.1\Linq.csprojAssemblyReference.cache
+C:\Git\CSharp\Linq\Linq\obj\Debug\netcoreapp2.1\Linq.csproj.CoreCompileInputs.cache
+C:\Git\CSharp\Linq\Linq\obj\Debug\netcoreapp2.1\Linq.AssemblyInfoInputs.cache
+C:\Git\CSharp\Linq\Linq\obj\Debug\netcoreapp2.1\Linq.AssemblyInfo.cs
+C:\Git\CSharp\Linq\Linq\obj\Debug\netcoreapp2.1\Linq.dll
+C:\Git\CSharp\Linq\Linq\obj\Debug\netcoreapp2.1\Linq.pdb
